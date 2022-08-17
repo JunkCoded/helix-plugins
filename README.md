@@ -4,7 +4,7 @@ Here I upload some of my simple plugins, larger plugins will be uploaded to sepa
 <br>
 
 If you have any questions, write to me in discord (Listed in Bio).<br>
-If you want to change or update something, don't be afraid to create a Merge Request.
+If you want to change or update something, don't be afraid to create a Pull Request.
 
 # [Any Timers](https://github.com/JunkCoded/helix-plugins/blob/main/plugins/anytimers.lua)
 
