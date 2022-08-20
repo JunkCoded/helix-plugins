@@ -13,7 +13,7 @@ If you want to change or update something, don't be afraid to create a Pull Requ
 To create timer use command /timercreate [Timer Name] [Timer Time]
 
 # [Custom Char Max](https://github.com/JunkCoded/helix-plugins/blob/main/plugins/custom_charmax.lua)
+A plugin that allows you to change the maximum number of characters for each player
 
-<br>
-To get player max chars use command /GetCharMax [Player]
+To get player max chars use command /GetCharMax [Player] <br>
 To set player max chars use command /SetCharMax [Player] [New max chars number]
